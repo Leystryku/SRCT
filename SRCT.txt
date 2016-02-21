@@ -1,0 +1,5 @@
+This is one of my older projects.
+It's source engine remote control tool.
+It allows you to easily manage your server as if you were directly using the server panel, however
+it uses UDP instead of TCP and  has no encryption.
+Use it for whatever you want, just make sure to credit me.

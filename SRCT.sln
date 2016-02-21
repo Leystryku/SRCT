@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SRCT_Server", "SRCT\SRCT.vcxproj", "{FAC80E0C-576A-44A3-B7C3-EE417DDDD3C1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SRCT_client", "SRCT_client\SRCT_client.vcxproj", "{3AB18F48-0F7D-47E4-A9BD-91C256F1EA44}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SRCT_cl", "SRCT_cl\SRCT_cl.vcxproj", "{01D1638B-110B-47D3-8E5D-34F316143096}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAC80E0C-576A-44A3-B7C3-EE417DDDD3C1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FAC80E0C-576A-44A3-B7C3-EE417DDDD3C1}.Debug|Win32.Build.0 = Debug|Win32
+		{FAC80E0C-576A-44A3-B7C3-EE417DDDD3C1}.Release|Win32.ActiveCfg = Release|Win32
+		{FAC80E0C-576A-44A3-B7C3-EE417DDDD3C1}.Release|Win32.Build.0 = Release|Win32
+		{3AB18F48-0F7D-47E4-A9BD-91C256F1EA44}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3AB18F48-0F7D-47E4-A9BD-91C256F1EA44}.Debug|Win32.Build.0 = Debug|Win32
+		{3AB18F48-0F7D-47E4-A9BD-91C256F1EA44}.Release|Win32.ActiveCfg = Release|Win32
+		{3AB18F48-0F7D-47E4-A9BD-91C256F1EA44}.Release|Win32.Build.0 = Release|Win32
+		{01D1638B-110B-47D3-8E5D-34F316143096}.Debug|Win32.ActiveCfg = Debug|Win32
+		{01D1638B-110B-47D3-8E5D-34F316143096}.Debug|Win32.Build.0 = Debug|Win32
+		{01D1638B-110B-47D3-8E5D-34F316143096}.Release|Win32.ActiveCfg = Release|Win32
+		{01D1638B-110B-47D3-8E5D-34F316143096}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

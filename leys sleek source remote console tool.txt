@@ -1,0 +1,23 @@
+
+getting unable to load and you are on windows?
+try installing this: http://www.microsoft.com/de-de/download/details.aspx?id=40784
+
+credits go to:
+
+Leystryku - http://steamcommunity.com/id/Leystryku/ - Creator
+
+James2Wenty (FatApollo) - http://steamcommunity.com/profiles/76561197986845557 - Teaching me a bit about using sockets, UDP & TCP
+
+NanoCat - http://steamcommunity.com/profiles/76561198002272178 - Trying to make me realize that I kept overlooking a line
+
+Avixia (Ayv) - http://steamcommunity.com/profiles/76561198000694804 - Making icons until there was a fitting one
+
+Wizzy - http://steamcommunity.com/profiles/76561197996344854 - Making me transfer in bytes directly instead of using JSON
+
+Willox - http://steamcommunity.com/profiles/76561197998909316 - His name wanted to appear here
+
+Scarness - http://steamcommunity.com/profiles/76561198041253738 - Suggestions
+
+aStonedPinguin - http://steamcommunity.com/profiles/76561198074794075 - Allowing me to abuse his server as a test server
+
+Gmod Coders - http://steamcommunity.com/groups/gmodcoders - Gmod Coders
